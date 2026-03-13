@@ -14,8 +14,10 @@ env/
 .DS_Store
 
 # Database and media
-langeek_vocab.db
+
 media/
 
 # Logs
 *.log
+
+
